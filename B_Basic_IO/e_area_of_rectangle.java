@@ -1,4 +1,4 @@
-package A_Basic_IO;
+package B_Basic_IO;
 import java.util.Scanner;
 
 public class e_area_of_rectangle {

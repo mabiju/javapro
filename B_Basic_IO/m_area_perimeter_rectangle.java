@@ -1,4 +1,4 @@
-package A_Basic_IO;
+package B_Basic_IO;
 import java.util.Scanner;
 
 public class m_area_perimeter_rectangle {

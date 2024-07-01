@@ -1,4 +1,4 @@
-package A_Basic_IO;
+package B_Basic_IO;
 import java.util.Scanner;
 
 public class l_sum_diff_pro_div {
