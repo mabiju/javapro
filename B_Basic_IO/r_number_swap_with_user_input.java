@@ -1,7 +1,7 @@
 package B_Basic_IO;
 import java.util.Scanner;
 
-public class q_number_swap {
+public class r_number_swap_with_user_input {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the value of a:");

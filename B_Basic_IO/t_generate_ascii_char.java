@@ -1,6 +1,6 @@
 package B_Basic_IO;
 
-public class r_generate_ascii_char {
+public class t_generate_ascii_char {
     public static void main(String[] args) {
         for (int i = 32; i < 127; i++) {
             System.out.write(i);
