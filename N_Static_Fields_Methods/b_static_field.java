@@ -17,7 +17,7 @@ class Student {
     }
 }
 
-public class a_static_field {
+public class b_static_field {
     public static void main(String[] args) {
         Student s1 = new Student();
         Student s2 = new Student();
