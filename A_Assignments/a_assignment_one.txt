@@ -1,0 +1,11 @@
+Handwritten Assingnment 1
+-------------------------
+1. What is "This" keyword? Demonstrate different approaches of This keyword in java .
+2. Define control statement. Exemplify if, looping, switch and jump statement with syntax.
+3. Which is the most efficient loop in JAVA. Verify your statement with example(s).
+4. Differentiate between break and continue statement with examples.
+5. Exemplify different types of operators in JAVA.
+
+
+Assigned : 2081/04/24, Thursday
+Deadline : 2081/05/10, Monday
